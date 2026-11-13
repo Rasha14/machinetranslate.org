@@ -11,8 +11,8 @@ seo:
 **Metrics** measure the quality of the output of a machine translation system.
 
 Metrics are used to compare different machine translation systems.
-
-The best known metric for machine translation is [BLEU](/bleu), a string-based automatic metric.
+Some commonly used machine translation evaluation metrics include BLEU, chrF, COMET, METEOR, and TER.
+One of the best-known metrics for machine translation is [BLEU](/bleu), a string-based automatic metric.
 
 {% include collapsible_toc.html %}
 
